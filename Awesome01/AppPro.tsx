@@ -19,6 +19,7 @@ function AppPro(): JSX.Element {
     )
 }
 
+//Css practise
 const styles = StyleSheet.create({
     container: {
         flex: 1,
@@ -27,7 +28,11 @@ const styles = StyleSheet.create({
     },
     whiteText:{
         color: '#D62229',
-        fontSize: 50
+        fontSize: 50,
+        borderWidth: 5,
+        borderColor: 'blue',
+        padding:20,
+        borderRadius: 5
     },
     blackText: {
         color: '#000000'
