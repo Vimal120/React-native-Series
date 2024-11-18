@@ -12,7 +12,7 @@ export default function FancyCard() {
         style={styles.cardImage}
         />
         <View style={styles.cardBody}>
-          <Text style={styles.cardTitle}>Hawa Mahal</Text>
+          <Text style={styles.cardTitle}>Taj Mahal</Text>
           <Text style={styles.cardLabel}>Pink City, jaipur</Text>
           <Text style={styles.cardDescription}>The Hawa Mahal is a palace in the pink city of Jaipur, india. Built from 
             red and pink sanstone, it is on the edge of the City palace.
